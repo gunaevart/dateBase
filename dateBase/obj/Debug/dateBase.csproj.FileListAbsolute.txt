@@ -1,0 +1,12 @@
+C:\Users\Администратор\Documents\SharpDevelop Projects\dateBase\dateBase\bin\Debug\dateBase.exe.config
+C:\Users\Администратор\Documents\SharpDevelop Projects\dateBase\dateBase\bin\Debug\dateBase.exe
+C:\Users\Администратор\Documents\SharpDevelop Projects\dateBase\dateBase\bin\Debug\dateBase.pdb
+C:\Users\Администратор\Documents\SharpDevelop Projects\dateBase\dateBase\obj\Debug\dateBase.MainForm.resources
+C:\Users\Администратор\Documents\SharpDevelop Projects\dateBase\dateBase\obj\Debug\dateBase.csproj.GenerateResource.Cache
+C:\Users\Администратор\Documents\SharpDevelop Projects\dateBase\dateBase\obj\Debug\dateBase.exe
+C:\Users\Администратор\Documents\SharpDevelop Projects\dateBase\dateBase\obj\Debug\dateBase.pdb
+C:\Users\Администратор\Documents\SharpDevelop Projects\dateBase\dateBase\obj\Debug\dateBase.csprojAssemblyReference.cache
+C:\Users\Администратор\Documents\SharpDevelop Projects\dateBase\dateBase\obj\Debug\dateBase.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Documents\SharpDevelop Projects\dateBase\dateBase\obj\Debug\dateBase.Main.resources
+C:\Users\Администратор\Documents\SharpDevelop Projects\dateBase\dateBase\bin\Debug\Database1.mdf
+C:\Users\Администратор\Documents\SharpDevelop Projects\dateBase\dateBase\bin\Debug\Database1_log.ldf
